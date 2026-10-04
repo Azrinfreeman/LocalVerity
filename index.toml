@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/verity-je-official.pw.toml"
-hash = "e630a03b54e7b8c11a2089e41b64fd79e29a0587014942fb9b8fadb82a18c738"
+hash = "492a3366570e5f71254e227e6bb842389cd1147f35e501deca947a6dca116de5"
 metafile = true
 
 [[files]]
