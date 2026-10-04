@@ -1,0 +1,13 @@
+name = "Local Verity"
+author = "MelonLord"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f3bead4dfeede0683886c775884649d5831e774215ab3b2d5310cf393158e388"
+
+[versions]
+forge = "47.4.26"
+minecraft = "1.20.1"

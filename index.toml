@@ -1,0 +1,28 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Smiley's Verity Suite-1.0.3.jar"
+hash = "0b67a51a6f60db33d9d86b1bcdd8e7fe1fdfedc260ddceba3705098574a7e82b"
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-11.1.136-forge.jar"
+hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
+metafile = true
+
+[[files]]
+file = "mods/verity-je-official.pw.toml"
+hash = "e630a03b54e7b8c11a2089e41b64fd79e29a0587014942fb9b8fadb82a18c738"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
