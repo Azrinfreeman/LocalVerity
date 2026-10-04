@@ -30,3 +30,4 @@ hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
 [[files]]
 file = "servers.dat"
 hash = "dc31c8b5dd1a3ffd326ff13034794afbdaf3fbede9ddfbc49507afe6070893aa"
+preserve = true
