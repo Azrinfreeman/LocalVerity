@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/verity-common.toml"
-hash = "681ed365945ecef18dc822ff31b1528d32bd651c871191c97b3613741e98f4a0"
+hash = "d38a5a83b07bde0689c594bcdfc93a5dc61570e5228e7e15bfe9e1d3f092c36c"
 
 [[files]]
 file = "mods/carry-on.pw.toml"
