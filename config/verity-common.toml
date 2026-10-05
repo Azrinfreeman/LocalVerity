@@ -21,7 +21,7 @@
 
 	[GeneralSettings.AISettings]
 		#API Key for providers that requires one.
-		apiKey = "AQ.Ab8RN6LLUIvaIN_7ocWFW5a-NPXF8jxZfmZ9w6Z14kEDk5GL7w"
+		apiKey = ""
 		#URL to use for the AI.
 		aiEndpoint = ""
 		#Custom AI model ID to use when custom models are enabled.
