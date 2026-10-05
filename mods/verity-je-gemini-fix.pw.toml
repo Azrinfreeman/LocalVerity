@@ -1,0 +1,8 @@
+name = "Verity JE Gemini Fix"
+filename = "verity-6.0.0-beta.9-gemini-fix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Azrinfreeman/LocalVerity/releases/download/fix/verity-6.0.0-beta.9-gemini-fix.jar"
+hash-format = "sha256"
+hash = "1054eea25a2b0a645e8709a2f3eb12a5938e05306233fb96d0d87181f27742dc"
