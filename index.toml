@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Smiley's Verity Suite-1.0.3.jar"
-hash = "0b67a51a6f60db33d9d86b1bcdd8e7fe1fdfedc260ddceba3705098574a7e82b"
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
@@ -20,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/verity-je-official.pw.toml"
-hash = "492a3366570e5f71254e227e6bb842389cd1147f35e501deca947a6dca116de5"
+hash = "e630a03b54e7b8c11a2089e41b64fd79e29a0587014942fb9b8fadb82a18c738"
 metafile = true
 
 [[files]]
