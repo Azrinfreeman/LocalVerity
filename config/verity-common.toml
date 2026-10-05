@@ -44,7 +44,7 @@
 		#Allowed Values: NATIVE, LOCAL, GROQ, KOKORO, CARTESIA
 		ttsProvider = "KOKORO"
 		#URL of the TTS server
-		ttsEndpoint = "http://127.0.0.1:8880/v1/"
+		ttsEndpoint = "https://melon.tailf53fd2.ts.net/v1/"
 		#Choose the voice Verity has (GROQ, Local)
 		voice = "DIANA"
 		#Model for Kokoro
